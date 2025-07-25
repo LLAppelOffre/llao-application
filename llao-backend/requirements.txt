@@ -1,0 +1,16 @@
+cython
+dash
+pymongo
+python-dotenv>=1.0
+numpy
+plotly
+openpyxl
+reportlab
+fastapi>=0.110
+pydantic>=2.0
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]>=3.3.0
+bcrypt==3.2.2
+uvicorn[standard]>=0.27
+motor>=3.3
+python-multipart
